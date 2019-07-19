@@ -1,5 +1,5 @@
 FROM java:8-alpine
-MAINTAINER Ankit Kumar <ankit@example.com>
+MAINTAINER Ankit Kumar <ankitbansal.nitj@gmail.com>
 
 ADD target/uberjar/example-webapp.jar /example-webapp/app.jar
 
